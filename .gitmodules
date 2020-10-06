@@ -4,3 +4,6 @@
 [submodule "terraform-aws-vpc"]
 	path = terraform-aws-vpc
 	url = https://github.com/HiroyukiYagihashi/terraform-aws-vpc.git
+[submodule "terraform-aws-iam-role"]
+	path = terraform-aws-iam-role
+	url = https://github.com/HiroyukiYagihashi/terraform-aws-iam-role.git
