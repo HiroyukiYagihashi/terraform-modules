@@ -1,3 +1,6 @@
 [submodule "terraform-aws-security-group"]
 	path = terraform-aws-security-group
 	url = https://github.com/HiroyukiYagihashi/terraform-aws-security-group.git
+[submodule "terraform-aws-vpc"]
+	path = terraform-aws-vpc
+	url = https://github.com/HiroyukiYagihashi/terraform-aws-vpc.git
